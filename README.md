@@ -1,12 +1,12 @@
-#Todo List App using Node JS and Vue#
+Todo List App using Node JS and Vue
 
-##Features:##
-Create a todo
-Complete a todo
-Edit a todo
-Delete a todo
+Features:
+•Create a todo
+•Complete a todo
+•Edit a todo
+•Delete a todo
 
-##Steps for installation:##
+Steps for installation:
 1. Clone the repository
 2. ```cd TodoListApp```
 3. ```docker-compose up -d```
